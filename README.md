@@ -1,6 +1,7 @@
 # Predict_Cutomer-Lifetime-Value_AnalyticsVidhya_JOB-A-THON_January2023
 
-![Title-Final](https://user-images.githubusercontent.com/84449238/213537193-6d338f56-2eb3-46b8-96af-1e40340f1f5b.jpg)
+![Intro-IMAGE](https://user-images.githubusercontent.com/84449238/218296243-63154b6d-92dd-43b7-abd9-4302a420deaf.JPG)
+
 
 
 Predict CLTV of a customer
