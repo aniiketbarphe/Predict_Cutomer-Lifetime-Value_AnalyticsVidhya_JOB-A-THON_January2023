@@ -45,3 +45,23 @@ The evaluation metric for this hackathon would be r2_score.
 Test data is further divided into Public (40%) and Private (60%) data.Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
 
 ## Summary
+
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 0.1594171427
+
+**2) Private Leaderboard :-** 0.1600135587
+
+**b) Best Model:-** Ensemble Technique (Light Gradient Boosted Machine(LGBM) Regressor + Gradient Boosting Regressor + Multi Layer Perceptron Regression)
+
+![Public_Leaderboard-AB](https://user-images.githubusercontent.com/84449238/218296657-43aaf06c-d8df-4843-b6e5-f6ddb35bd5c0.JPG)
+
+![Private_Leaderboard-AB](https://user-images.githubusercontent.com/84449238/218296665-963338e5-8cc9-4770-ba45-79ea21a29b22.JPG)
+
+**c) Competition Link:-** https://datahack.analyticsvidhya.com/contest/job-a-thon-january-2023/#LeaderBoard
+
+**d) Rank Scored:-**
+
+a) **25** out of **7416** registered participants (Public Leaderboard)
+
+b) **161** out of **7416** registered participants (Private Leaderboard)
